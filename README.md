@@ -47,8 +47,7 @@ https://docs.google.com/spreadsheets/d/1Ns_DI_YEprcioQDcubR_a5_2euuPRsUyHAMoN4D1
 ### GNS3 - CIDR
 
 Berbeda dengan CPT yang menggunakan VLSM, pada topologi GNS3 ini diterapkan metode **CIDR (Classless Inter-Domain Routing)**. Fokus utama metode ini adalah melakukan penggabungan rute (*route summarization*) untuk efisiensi tabel routing.
-
-
+![](./Assets/Topologi%20GNS3.png)
 
 1. **Topologi GNS3**
 
