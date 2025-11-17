@@ -48,11 +48,13 @@ https://docs.google.com/spreadsheets/d/1Ns_DI_YEprcioQDcubR_a5_2euuPRsUyHAMoN4D1
 
 Berbeda dengan CPT yang menggunakan VLSM, pada topologi GNS3 ini diterapkan metode **CIDR (Classless Inter-Domain Routing)**. Fokus utama metode ini adalah melakukan penggabungan rute (*route summarization*) untuk efisiensi tabel routing.
 
+
+
 1. **Topologi GNS3**
 
    Berikut adalah desain topologi yang dibangun di GNS3. Topologi ini dibagi menjadi 3 wilayah utama (Sayap Kiri, Sayap Kanan, dan Sayap Bawah) yang terhubung ke satu router pusat (Amonsul).
 
-   ![](./Assets/Topologi%20GNS3%20dengan%20keterangan%20subnet.jpg)
+   ![](./Assets/Topologi%20GNS3%20dengan%20keterangan%20subnet.png)
 
 2. **Perhitungan Penggabungan IP (Supernetting)**
 
@@ -73,7 +75,7 @@ Berbeda dengan CPT yang menggunakan VLSM, pada topologi GNS3 ini diterapkan meto
 
      Visualisasi pembagian wilayah CIDR dapat dilihat pada gambar berikut:
      
-     ![](./Assets/Topologi%20GNS3%20dan%20CIDR.jpg)
+     ![](./Assets/Topologi%20GNS3%20dan%20CIDR.png)
 
 3. **Perhitungan Pembagian IP (Subnetting)**
 
