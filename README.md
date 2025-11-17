@@ -35,9 +35,9 @@ https://docs.google.com/spreadsheets/d/1Ns_DI_YEprcioQDcubR_a5_2euuPRsUyHAMoN4D1
    Cara melakukan routing adalah dengan melihat bagaimana jalur dari satu subnet ke subnet yang lainnya.
    Untuk bagaimana routing dilakukan dapat dilihat pada file berikut ini:
 
-   - [](./routings/cpt/left-route.txt)
-   - [](./routings/cpt/right-route.txt)
-   - [](./routings/cpt/bottom-route.txt)
+   - [left route](./routings/cpt/left-route.txt)
+   - [right route](./routings/cpt/right-route.txt)
+   - [bottom route](./routings/cpt/bottom-route.txt)
 
 4. Setting static ip
 
